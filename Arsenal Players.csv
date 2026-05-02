@@ -1,0 +1,26 @@
+jersey_number,name,position,nationality,dob,height,foot,joined,contract,market_value
+1,David Raya,Goalkeeper,Spain,15/09/1995 (30),"1,83m",right,04/07/2024,30/06/2028,€35.00m
+13,Kepa Arrizabalaga,Goalkeeper,Spain,03/10/1994 (31),"1,88m",right,01/07/2025,30/06/2028,€7.00m
+35,Tommy Setford,Goalkeeper,England,13/03/2006 (20),"1,85m",right,01/07/2025,30/06/2028,-
+2,William Saliba,Centre-Back,France,24/03/2001 (25),"1,92m",right,25/07/2019,30/06/2030,€90.00m
+6,Gabriel,Centre-Back,Brazil,19/12/1997 (28),"1,90m",left,01/09/2020,30/06/2029,€75.00m
+5,Piero Hincapié,Centre-Back,Ecuador,09/01/2002 (24),"1,84m",left,01/09/2025,30/06/2026,€50.00m
+3,Cristhian Mosquera,Centre-Back,Spain,27/06/2004 (21),"1,91m",right,24/07/2025,30/06/2030,€35.00m
+33,Riccardo Calafiori,Left-Back,Italy,19/05/2002 (23),"1,88m",left,29/07/2024,30/06/2029,€50.00m
+49,Myles Lewis-Skelly,Left-Back,England,26/09/2006 (19),"1,78m",left,01/07/2024,30/06/2030,€35.00m
+12,Jurriën Timber,Right-Back,Netherlands,17/06/2001 (24),"1,79m",right,14/07/2023,30/06/2028,€70.00m
+4,Ben White,Right-Back,England,08/10/1997 (28),"1,86m",right,30/07/2021,30/06/2028,€30.00m
+36,Martín Zubimendi,Defensive Midfield,Spain,02/02/1999 (27),"1,81m",right,06/07/2025,30/06/2030,€80.00m
+16,Christian Nørgaard,Defensive Midfield,Denmark,10/03/1994 (32),"1,87m",right,10/07/2025,30/06/2027,€7.00m
+41,Declan Rice,Central Midfield,England,14/01/1999 (27),"1,88m",right,15/07/2023,30/06/2028,€120.00m
+23,Mikel Merino,Central Midfield,Spain,22/06/1996 (29),"1,89m",left,27/08/2024,30/06/2028,€30.00m
+8,Martin Ødegaard,Attacking Midfield,Norway,17/12/1998 (27),"1,78m",left,20/08/2021,30/06/2028,€65.00m
+10,Eberechi Eze,Attacking Midfield,England,29/06/1998 (27),"1,78m",right,23/08/2025,30/06/2029,€60.00m
+11,Gabriel Martinelli,Left Winger,Brazil,18/06/2001 (24),"1,78m",right,02/07/2019,30/06/2027,€45.00m
+19,Leandro Trossard,Left Winger,Belgium,04/12/1994 (31),"1,72m",right,20/01/2023,30/06/2027,€20.00m
+7,Bukayo Saka,Right Winger,England,05/09/2001 (24),"1,78m",left,01/07/2019,30/06/2030,€120.00m
+20,Noni Madueke,Right Winger,England,10/03/2002 (24),"1,82m",left,18/07/2025,30/06/2030,€50.00m
+56,Max Dowman,Right Winger,England,31/12/2009 (16),"1,83m",left,01/07/2025,-,€20.00m
+14,Viktor Gyökeres,Centre-Forward,Sweden,04/06/1998 (27),"1,89m",right,26/07/2025,30/06/2030,€65.00m
+29,Kai Havertz,Centre-Forward,Germany,11/06/1999 (26),"1,93m",left,01/07/2023,30/06/2028,€50.00m
+9,Gabriel Jesus,Centre-Forward,Brazil,03/04/1997 (29),"1,75m",right,04/07/2022,30/06/2027,€20.00m
